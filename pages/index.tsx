@@ -2,7 +2,7 @@
 export default function Home() {
   return (
     <div>
-      <p>Album do Heitor</p>
+      <p>Galeria do nascimento do Heitor</p>
     </div>
   );
 }
